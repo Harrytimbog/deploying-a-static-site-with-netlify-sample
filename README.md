@@ -3,7 +3,7 @@ Hello! This GitHub repo is intended to be used with the article [Deploying a Sta
 
 ## My Demo    
 
-[Run demo](https://dreamy-swirles-ced8ee.netlify.app/)
+[Run demo](https://harriewolfnet.netlify.app/)
 
 
 Make sure to follow the steps as outlined in the article to see how to use Heroku for your deployment needs!
